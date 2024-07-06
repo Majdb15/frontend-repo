@@ -24,3 +24,5 @@ class Client:
 client = Client()
 client.load_config()
 client.print_config()
+
+##let's test the workflow from fullstack-repo
